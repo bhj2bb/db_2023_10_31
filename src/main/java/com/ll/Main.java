@@ -4,6 +4,6 @@ package com.ll;
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
-        System.out.printf("commit 2");
+        System.out.println("새 브렌치 추가");
     }
 }
